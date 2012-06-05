@@ -1,1 +1,1 @@
-I'm no longer maintaining this library. Thankfully, David Balatero is now maintaining it so the repo has been moved there. "http://github.com/dbalatero/typhoeus/tree/master":http://github.com/dbalatero/typhoeus/tree/master
+I'm no longer maintaining this library. Thankfully, Hans Hasselberg is now maintaining it. The repo has been moved to: "http://github.com/typhoeus/typhoeus":http://github.com/typhoeus/typhoeus
